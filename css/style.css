@@ -1,0 +1,49 @@
+.btn-primary {
+    background: #FF9900  ;
+    border: 0px;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+}
+.btn-primary:hover {
+    background-color: rgb(219, 134, 6)  ;
+    border: 0px;
+}
+.btn-secondary {
+    background: none;
+    border: 1px solid #BCD0E5;
+    padding: 15px 40px 15px 40px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #173A56;
+}
+.btn-secondary:hover {
+    background: none;
+    border: 1px solid rgb(149, 161, 173);
+    color: #173A56;
+}
+.herobwa h1 {
+    font-family: 'Poppins';
+    font-weight: 700;
+    color: #2F281E;
+}
+.herobwa p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    color: #2F281E;
+}
+.navbar-nav .nav-link{
+    color: #2F281E;
+
+}
+
+/* // Extra small devices (portrait phones, less than 576px)
+// No media query for `xs` since this is the default in Bootstrap */
+
+/* // Small devices (landscape phones, 576px and up) */
+@media only screen and (max-width: 768px) { 
+    .btn-primary, .btn-secondary{
+        margin-top: 10px;
+        margin-left: 0 !important;
+    }
+}
