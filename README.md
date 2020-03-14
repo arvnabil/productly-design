@@ -1,6 +1,6 @@
 # productly-design
-project latihan bootstrap 4
+Project latihan bootstrap 4
 
-### Screenshot Design
+### Screenshot Design productly
 ![Gambar design productly](https://github.com/arvnabil/productly-design/blob/master/thumbnail.jpg)
 
